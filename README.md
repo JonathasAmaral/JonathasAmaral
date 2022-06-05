@@ -2,7 +2,7 @@
 
 ##
 
--🎩 I’m currently learning Hacking, HTML, CSS, Bootstrap, AngulaJS
+-🎩 I’m currently learning Hacking, HTML, CSS, Bootstrap, AngulaJS, JavaScript
 
 <div>
   <a href="https://github.com/JonathasAmaral">
