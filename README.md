@@ -2,7 +2,7 @@
 
 ##
 
--🎩 I’m currently learning Hacking, HTML, CSS, Bootstrap, AngulaJS, JavaScript
+-🎩 I’m currently learning Hacking, Tailwindcss , JavaScript
 
 <div>
   <a href="https://github.com/JonathasAmaral">
@@ -20,6 +20,8 @@
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Reactjs" height="40" width="40" src="https://img.icons8.com/plasticine/2x/react.png">
+  <img align="center" alt="Tailwindcss" height="25" width="25" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254431/tailwindcss-icon-icon-md.png">
+  <img align="center" alt="Bootstrap" height="28" width="40" src="https://1.bp.blogspot.com/-CJwjL1Cw9oo/W_sHOVjbWzI/AAAAAAAAAXA/P1S6ND2jkG46fVa5bjnkjYN5usXvuTP2gCLcBGAs/w1200-h630-p-k-no-nu/bootstrap.png">
 </div>
 
 ##
