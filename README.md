@@ -19,7 +19,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="vs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Reactjs" height="30" width="40" src="https://egenteas.sirv.com/exato/project/react_icon.png">
+  <img align="center" alt="Reactjs" height="40" width="40" src="https://img.icons8.com/plasticine/2x/react.png">
 </div>
 
 ##
