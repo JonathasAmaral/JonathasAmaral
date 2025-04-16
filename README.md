@@ -2,13 +2,17 @@
 
 ##
 
--🎩 I’m currently learning Hacking, Tailwindcss , JavaScript
+#### 🎩 I’m currently learning Information security, React Native , JavaScript
 
 <div>
   <a href="https://github.com/JonathasAmaral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathasAmaral&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+
+##
+
+#### Tecnologias
+
 <div style="display: inline_block"><us>
   <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
